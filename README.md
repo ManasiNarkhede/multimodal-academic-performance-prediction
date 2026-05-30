@@ -5,6 +5,7 @@ An end-to-end system for predicting student academic risk from three data source
 ## Deployment
 
 Model backend is deployed on AWS cloud and frontend is deployed on Vercel. 
+
 https://academic-prediction.vercel.app/login
 
 ## Objective
